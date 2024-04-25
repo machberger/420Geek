@@ -1,4 +1,4 @@
-<script>
+
 "use strict";
 
 var canvas = document.getElementsByTagName("canvas")[0];
@@ -581,4 +581,4 @@ function m(t) {
 window.onload = function () {
   m("h1");
 };
-</script>
+
